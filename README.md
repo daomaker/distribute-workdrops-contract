@@ -1,1 +1,1 @@
-# distribute-workdrops-contract
+# Contract used in Social Mining Workdrops
